@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\Csharp\Aula06102025\obj\Debug\net8.0\Aula06102025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Csharp\Aula06102025\obj\Debug\net8.0\Aula06102025.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Csharp\Aula06102025\obj\Debug\net8.0\Aula06102025.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Csharp\Aula06102025\obj\Debug\net8.0\Aula06102025.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Csharp\Aula06102025\bin\Debug\net8.0\Aula06102025.exe
+C:\Users\Aluno\Desktop\Csharp\Aula06102025\bin\Debug\net8.0\Aula06102025.deps.json
+C:\Users\Aluno\Desktop\Csharp\Aula06102025\bin\Debug\net8.0\Aula06102025.runtimeconfig.json
+C:\Users\Aluno\Desktop\Csharp\Aula06102025\bin\Debug\net8.0\Aula06102025.dll
+C:\Users\Aluno\Desktop\Csharp\Aula06102025\bin\Debug\net8.0\Aula06102025.pdb
+C:\Users\Aluno\Desktop\Csharp\Aula06102025\obj\Debug\net8.0\Aula06102025.dll
+C:\Users\Aluno\Desktop\Csharp\Aula06102025\obj\Debug\net8.0\refint\Aula06102025.dll
+C:\Users\Aluno\Desktop\Csharp\Aula06102025\obj\Debug\net8.0\Aula06102025.pdb
+C:\Users\Aluno\Desktop\Csharp\Aula06102025\obj\Debug\net8.0\Aula06102025.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Csharp\Aula06102025\obj\Debug\net8.0\ref\Aula06102025.dll
